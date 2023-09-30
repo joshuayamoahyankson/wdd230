@@ -10,7 +10,7 @@ main {
 }
 .card {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(1fr 1fr 1fr 1fr);
 }
 li {
     list-style-type: none;
