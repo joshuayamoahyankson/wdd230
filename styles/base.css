@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed:wght@200&display=swap');
+
+main {
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    background-color: pink;
+    max-width: fit-content;
+    margin: 0 auto;
+
+}
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+li {
+    list-style-type: none;
+}
+main .section{
+    grid-template-rows: auto;
+}
