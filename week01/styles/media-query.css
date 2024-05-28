@@ -17,4 +17,7 @@ main{
 section{
     background-color: white;
     padding: 0.5rem;
+    position: relative;
+    justify-content: right;
+    align-items: normal;
 }
